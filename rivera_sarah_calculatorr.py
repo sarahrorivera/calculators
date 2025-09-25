@@ -1,4 +1,7 @@
+""" 
+Author: Sarah Rivera
 
+"""
 
 
 # create a function for addition 
