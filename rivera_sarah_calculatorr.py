@@ -1,8 +1,4 @@
-'''
-this program creates a simple program that allows the user to use calculate simple expressions 
-Author:
-Sarah Rivera
-'''
+
 
 
 # create a function for addition 
