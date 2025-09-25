@@ -1,4 +1,5 @@
 """ 
+Scientific Calculator Script
 Author: Sarah Rivera
 
 """
