@@ -1,3 +1,9 @@
+""" 
+Simple Calculator 
+Author: Sarah Rivera 
+"""
+
+
 def simple_calculator(expression_str):
     # Split the expression into parts
     expression = expression_str.split()
