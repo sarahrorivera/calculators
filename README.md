@@ -30,7 +30,7 @@ Exponentiation (**)
 
 Floor division (//) with error handling
 
--Provides error messages for:
+- Provides error messages for:
 
 Invalid operators
 
