@@ -15,6 +15,7 @@ Division (/)
 
 # Features (file 2)
 - Supports a wider range of operators:
+  
 Addition (+)
 
 
